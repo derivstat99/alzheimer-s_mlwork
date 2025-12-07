@@ -50,8 +50,3 @@ The goal is to integrate structured cognitive data (e.g., MMSE, CDR, nWBV) with 
 
 ---
 
-### 👩‍💻 Author
-- **Harsh Kaldoke [12311015]**, B.Tech CSE, III Year, Section A  
-- Under the Guidance of **Prof. Dr. Md. Arquam**, Department of Computer Science & Engineering, IIIT Sonepat
-
----
